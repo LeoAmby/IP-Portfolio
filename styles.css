@@ -1,0 +1,133 @@
+body {
+    width: 100%;
+    background-image: url('https://cdn.pixabay.com/photo/2014/06/24/17/38/non-376543_960_720.jpg');
+    background-repeat: repeat-x;
+    background-color: rgb(15, 15, 15);
+    /* background-size: cover; */ */
+}
+
+/* .overlay    {
+        position: fixed;
+        overflow: auto;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 2;
+     
+} */
+.banner {
+    width:800px;
+    position:relative;
+    height:100px;
+    
+}
+
+#links {
+    width: 800px;
+
+}
+nav     {
+    margin:0 auto;
+    float:right;
+    font-family: 'Special Elite', cursive; /*'Courier New', Courier, monospace; */
+    size: 5em;
+}
+
+li      {
+    display:inline-block;
+}
+nav>ul>li>a {
+    padding:18px;
+    margin-right:0;
+    text-transform:uppercase;
+    text-decoration:none;
+    color:rgba(233, 192, 10, 0.678);
+    float: right;
+    font-weight: bolder;
+}
+
+nav>ul>li>a:hover {
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+background: rgba(107, 8, 102, 0.678);
+color: rgba(114, 112, 110, 0.7);
+}
+/* #title   {
+    width:300px;
+    font-family: 'Fredericka the Great', cursive;
+    border-right: 1px solid purple;
+    font-size: 50px;
+} */
+.container {
+    width: 800px;
+    display:flex;
+    /* flex-direction: row; */
+}
+#left-side {
+    width:50px;
+    height:400px;
+    border-right: 2px solid gray;
+    writing-mode:vertical-rl;
+    font-family: 'Special Elite', cursive; /* 'Lekton', sans-serif;   'Fredericka the Great', cursive; */
+    font-weight: bolder;
+    text-align: center;
+    padding-right: 30px;
+    font-size: 70px;
+    padding-left: 3em;
+    color:rgb(160, 8, 173);
+    /*margin-top:50px;
+     text-decoration-line: underline; */
+}
+#right-side {
+    display:flex;
+    width: 750px;
+    top:0;
+   
+}
+
+#right-side>img {
+    padding-left:29em;
+}
+/*additional styles for the bio page*/
+#info   {
+    width: 500px;
+    color: rgb(168, 167, 167);
+    text-align: justify;
+    line-height: 1.5em;
+    padding:10px;
+}
+#image  {
+        padding:20px;
+        height:255px;
+        /* background-color: black; */
+        
+}
+#image>img {
+        border-radius:5px;
+}
+/*additional styles for the portfolio page*/
+#gallery    {
+    width:750px;
+    
+}
+.top    {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.top>img    {
+    padding:15px;
+}
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.bottom>img    {
+    padding:15px;
+}
