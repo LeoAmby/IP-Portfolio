@@ -119,11 +119,11 @@ color: rgba(114, 112, 110, 0.7);
     justify-content: space-around;
 
 }
-.top>img    {
+.top img    {
     padding:15px;
    
 }
-.top>img:hover {
+.top img:hover {
         position: relative;
         width:350px;
         height:280px;
@@ -135,10 +135,10 @@ color: rgba(114, 112, 110, 0.7);
     justify-content: space-around;
 
 }
-.bottom>img    {
+.bottom img    {
     padding:15px;
 }
-.bottom>img:hover {
+.bottom img:hover {
     position: relative;
     width:350px;
     height:280px;
