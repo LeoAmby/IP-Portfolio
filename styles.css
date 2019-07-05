@@ -125,9 +125,8 @@ color: rgba(114, 112, 110, 0.7);
 }
 .top>img:hover {
         position: relative;
-        width:500px;
-        height:400px;
-        margin-left: 20px;
+        width:350px;
+        height:280px;
         
 }
 .bottom {
@@ -138,4 +137,9 @@ color: rgba(114, 112, 110, 0.7);
 }
 .bottom>img    {
     padding:15px;
+}
+.bottom>img:hover {
+    position: relative;
+    width:350px;
+    height:280px;
 }
