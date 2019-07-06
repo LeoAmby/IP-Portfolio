@@ -71,7 +71,7 @@ color: rgba(114, 112, 110, 0.7);
     height:400px;
     border-right: 2px solid gray;
     writing-mode:vertical-rl;
-    font-family: 'Special Elite', cursive; /* 'Lekton', sans-serif;   'Fredericka the Great', cursive; */
+    font-family: 'Special Elite', cursive; /*   'Fredericka the Great', cursive; */
     font-weight: bolder;
     text-align: center;
     padding-right: 30px;
@@ -85,11 +85,23 @@ color: rgba(114, 112, 110, 0.7);
     display:flex;
     width: 750px;
     top:0;
+    flex-direction: row;
+    position: relative;
    
 }
 
 .ballet>img {
-    padding-left:29em;
+    /* padding-left:29em; */
+    /* width: 300px; */
+    float: left;
+}
+.intro  {
+    width:450px;
+    float:right;
+    color: grey;
+    font-family: 'Lekton', sans-serif;
+    padding:80px;
+    font-size: 50px;
 }
 /*additional styles for the bio page*/
 #info   {
