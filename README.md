@@ -1,22 +1,23 @@
-#My Portfolio
+#PROJECT NAME
+Leonidah's Portfolio
 
-This is the space in which all my projects are showcased.
+#AUTHOR
+Leonidah Mwamto
+
+#DESCRIPTION
+This is the online space in which I display all projects.
 Moreover, there are details of who I am, my interests, and why I settled for programming as a career. Most of the projects showcased are made of HTML and CSS.
-
-#Application
-I have made use of HTML5 and CSS to create the site
-
-#List of contributors
-Copiled by myself - Leonidah Mwamto
-
-# Description
 The purpose of this portfolio is to reach out to fellow programmers to whom we can share codes and learn more from each other.
 Secondly, I have created the portfolio is also meant to access potential employers or partners in webapp development.
 
+#APPLICATION
+I have made use of HTML5 and CSS to create the site
+
+#LIST OF CONTRIBUTORS
+Copiled by myself - Leonidah Mwamto
+
 # Known Bugs
 At the moment the site is not user friendly hence where a user with a smaller screen resolution will have difficulty viewing the site.
-
-The text "<coder>" is picked as a code and is not reflected on the page as I want it
 
 # Technologies Used
 The website is purely made out HTML5 and CSS. I also made use of online graphic creators which helped me play around with my images, editing and additional effects.
