@@ -16,6 +16,8 @@ Secondly, I have created the portfolio is also meant to access potential employe
 # Known Bugs
 At the moment the site is not user friendly hence where a user with a smaller screen resolution will have difficulty viewing the site.
 
+The text "<coder>" is picked as a code and is not reflected on the page as I want it
+
 # Technologies Used
 The website is purely made out HTML5 and CSS. I also made use of online graphic creators which helped me play around with my images, editing and additional effects.
 
