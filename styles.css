@@ -2,7 +2,7 @@ body {
     width: 100%;
     background-image: url('https://cdn.pixabay.com/photo/2014/06/24/17/38/non-376543_960_720.jpg');
     background-repeat: repeat-x;
-    background-color: rgb(15, 15, 15);
+    background-color: black;
     /* background-size: cover; */ */
 }
 
