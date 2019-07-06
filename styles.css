@@ -117,6 +117,23 @@ color: rgba(114, 112, 110, 0.7);
 #output {
     display: inline-block;
 }
+
+.emojis {
+    width: 800px;
+    display:flex;
+    flex-direction: row;
+    float:right;
+
+}
+
+.emojis img {
+    width: 50px;
+    height:50px;
+    padding-left:30px;
+    /* padding-right:1px; */
+    border-radius:5px;
+
+}
 /*additional styles for the bio page*/
 #info   {
     width: 500px;
