@@ -95,13 +95,13 @@ color: rgba(114, 112, 110, 0.7);
     padding-left:17em; 
 }
 .intro  {
-    width: 500px;
+    width: 550px;
     float:right;
-    color: grey;
+    color: lightgrey;
     font-family: 'Lekton', sans-serif;
-    padding-left:50px;
+    padding-left:30px;
     font-size: 30px;
-    padding-top:80px;
+    padding-top:50px;
     background-color:rgb(160, 8, 173);
     height:320px;
     opacity: 1.5em;
