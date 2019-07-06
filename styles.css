@@ -183,6 +183,7 @@ color: rgba(114, 112, 110, 0.7);
 }
 .bottom img    {
     padding:15px;
+    
 }
 .bottom img:hover {
     position: relative;
