@@ -125,6 +125,9 @@ color: rgba(114, 112, 110, 0.7);
     line-height: 1.5em;
     padding:10px;
 }
+#info span  {
+    color: rgba(233, 192, 10, 0.678);
+}
 #image  {
         padding:20px;
         height:255px;
