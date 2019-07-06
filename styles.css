@@ -86,13 +86,13 @@ color: rgba(114, 112, 110, 0.7);
     width: 750px;
     top:0;
     flex-direction: row;
-    position: relative;
+    padding-left:5px;
+
    
 }
 
 .ballet>img {
-    padding-left:10em; 
-    width: 300px;
+    padding-left:17em; 
 }
 .intro  {
     width: 500px;
@@ -100,15 +100,22 @@ color: rgba(114, 112, 110, 0.7);
     color: grey;
     font-family: 'Lekton', sans-serif;
     padding-left:50px;
-    font-size: 50px;
+    font-size: 30px;
     padding-top:80px;
+    background-color:rgb(160, 8, 173);
+    height:320px;
+    opacity: 1.5em;
     /* text-align: center; */
-    display: inline;
+    
 
 }
 .intro span {
     font-family: 'Fredericka the Great', cursive;
     color: rgba(233, 192, 10, 0.678);
+    
+}
+#output {
+    display: inline-block;
 }
 /*additional styles for the bio page*/
 #info   {
