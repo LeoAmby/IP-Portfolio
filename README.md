@@ -1,4 +1,7 @@
-{Application Name}
+My Portfolio
+
+This is the space in which all my projects are showcased.
+Moreover, their are details of who I am, my interests, and why 
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
